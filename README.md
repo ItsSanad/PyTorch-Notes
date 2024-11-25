@@ -5,4 +5,4 @@
 
 
 
-All thanks to [Daniel Bourke](https://www.youtube.com/channel/UCr8O8l5cCX85Oem1d18EezQ) for the tutorial
+All thanks to [Daniel Bourke](https://github.com/mrdbourke/pytorch-deep-learning) for the [tutorial](https://www.youtube.com/watch?v=V_xro1bcAuA&t=15145s&ab_channel=freeCodeCamp.org)
